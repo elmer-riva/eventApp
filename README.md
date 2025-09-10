@@ -1,16 +1,15 @@
-# upc_flutter_202510_1acc0238_eb_u202220829
+# EventApp
 
-A new Flutter project.
+Aplicación móvil desarrollada con **Flutter**.
 
-## Getting Started
+### Características
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Inicio de sesión de usuario:** Accede a tu perfil personal.
+* **Visualización de Eventos:** Explora eventos y consulta sus detalles:
+    * Nombre
+    * Fecha
+    * Número de asistentes
+    * Descripción
+    * Rating
+* **Interactividad:** Califica los eventos del 1 al 5 y deja comentarios.
+* **Favoritos:** Selecciona tus eventos preferidos y visualízalos en una pestaña dedicada.
